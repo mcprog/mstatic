@@ -1,4 +1,4 @@
 # mstatic
-static resources
+static resources.
 
 https://github.com/mcprog/mstatic
