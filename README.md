@@ -1,4 +1,4 @@
 # mstatic
 static resources.
 
-https://github.com/mcprog/mstatic
+[github repo](https://github.com/mcprog/mstatic)
