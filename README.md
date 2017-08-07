@@ -1,0 +1,2 @@
+# mstatic
+static resources
